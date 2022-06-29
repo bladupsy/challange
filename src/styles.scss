@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap');
+:root{
+  $Mobile: 375px;
+  $Desktop: 1440px;
+
+  $Dark-cyan: hsl(158, 36%, 37%);
+  $Cream: hsl(30, 38%, 92%);
+  $Very-dark-blue: hsl(212, 21%, 14%);
+  $Dark-grayish-blue: hsl(228, 12%, 48%);
+  $White: hsl(0, 0%, 100%);
+  background-color:  $Cream;
+  width: 100%;
+}
